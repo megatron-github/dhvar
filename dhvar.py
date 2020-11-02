@@ -1,0 +1,1 @@
+loop = """; print('loop = {}{}{}{}{}{}{}{}'.format('"', '"', '"', loop, '"', '"', '"', loop), end='')"""; print('loop = {}{}{}{}{}{}{}{}'.format('"', '"', '"', loop, '"', '"', '"', loop), end='')
